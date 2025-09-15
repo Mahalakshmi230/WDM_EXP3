@@ -42,8 +42,7 @@ for each wear category.</p>
 
 ## Program:
 
-```
-python
+```python
 from collections import defaultdict
 from itertools import combinations
 
